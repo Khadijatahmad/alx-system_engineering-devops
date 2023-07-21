@@ -7,4 +7,3 @@ exec { 'kill':
   returns   => ['0', '1'],
   logoutput => true,
 }
-
